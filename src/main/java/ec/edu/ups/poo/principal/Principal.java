@@ -11,6 +11,7 @@ package ec.edu.ups.poo.principal;
                 System.out.println("----------------------------Registro de personas-----------------------------");
                 //Colaborador: Juan Pablo Ortiz
                 //LibretaDeContactos
+                //Propietario: Mateo Molina
                 System.out.println("Cuantas personas ingresaran?: ");
 
                 int x = leer.nextInt();
