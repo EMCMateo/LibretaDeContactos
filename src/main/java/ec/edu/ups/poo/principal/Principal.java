@@ -4,14 +4,15 @@ package ec.edu.ups.poo.principal;
     import java.util.Scanner;
     import ec.edu.ups.poo.clases.Familia;
     import ec.edu.ups.poo.clases.Persona;
+    //Colaborador: Juan Pablo Ortiz
+    //LibretaDeContactos
+    //Propietario: Mateo Molina
+    //PruebaDeSeguridad
         public class Principal {
             public static void main(String[] args) {
                 Scanner leer = new Scanner(System.in);
 
                 System.out.println("----------------------------Registro de personas-----------------------------");
-                //Colaborador: Juan Pablo Ortiz
-                //LibretaDeContactos
-                //Propietario: Mateo Molina
                 System.out.println("Cuantas personas ingresaran?: ");
 
                 int x = leer.nextInt();
