@@ -8,7 +8,6 @@ package ec.edu.ups.poo.principal;
     //LibretaDeContactos
     //Propietario: Mateo Molina
     //PruebaDeSeguridad
-
         public class Principal {
             public static void main(String[] args) {
                 Scanner leer = new Scanner(System.in);
